@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Maryam
+My passion is to condense large data into a simple story![image](https://user-images.githubusercontent.com/85372732/141245047-12d6d783-dcb6-49e1-9c4a-9a2465ac1736.png)
+
 
 <!--
 **mforoohi/mforoohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
